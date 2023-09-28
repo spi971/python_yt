@@ -10,7 +10,9 @@ be sure to have :
 - threading
 
 and run :
-- python3 main.py 
+```
+    python3 main.py 
+```
 
 
 # Error
